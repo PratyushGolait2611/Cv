@@ -1,0 +1,133 @@
+body {
+  background-color: #E4F9F5;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  margin-top: 0;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+h1:hover {
+  color: lightblue;
+}
+
+.top_p:hover {
+  color: lightblue;
+}
+
+p:hover {
+  font-size: 20px;
+  color: grey;
+}
+
+.profile_pic:hover {
+  width: 300px;
+  height: 300px;
+  border-radius: 0;
+}
+
+.top_p {
+  color: #66BFBF;
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.contact-me {
+  margin-bottom: 0 !important;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightblue;
+  border-width: 5px;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top_div {
+  background-color: #E4F9F5 !important;
+  position: relative;
+  padding-top: 180px !important;
+  margin-bottom: 0 !important;
+}
+
+.skill2_pic {
+  padding-top: 30px;
+}
+
+.skill3_pic {
+  padding-top: 30px;
+}
+
+.para_skill2 {
+  padding-bottom: 20px;
+}
+
+.para_skill3 {
+  padding-bottom: 20px;
+}
+
+.middle_div {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  margin-bottom: 0 !important;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.sun-img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  height: 150px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile_pic {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+}
+
+.shadow-lg{
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175) ;
+}
+
+.p-3 {
+  padding: 1rem ;
+}
+
+.mb-5 {
+  margin-bottom: 3rem;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.rounded {
+  border-radius: 0.25rem;
+}
